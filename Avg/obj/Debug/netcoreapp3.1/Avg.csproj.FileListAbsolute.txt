@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Avg\Avg\bin\Debug\netcoreapp3.1\Avg.exe
+C:\Users\Admin\source\repos\Avg\Avg\bin\Debug\netcoreapp3.1\Avg.deps.json
+C:\Users\Admin\source\repos\Avg\Avg\bin\Debug\netcoreapp3.1\Avg.runtimeconfig.json
+C:\Users\Admin\source\repos\Avg\Avg\bin\Debug\netcoreapp3.1\Avg.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Avg\Avg\bin\Debug\netcoreapp3.1\Avg.dll
+C:\Users\Admin\source\repos\Avg\Avg\bin\Debug\netcoreapp3.1\Avg.pdb
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.dll
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.pdb
+C:\Users\Admin\source\repos\Avg\Avg\obj\Debug\netcoreapp3.1\Avg.genruntimeconfig.cache
